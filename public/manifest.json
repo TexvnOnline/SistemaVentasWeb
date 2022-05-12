@@ -1,0 +1,63 @@
+{
+    "name": "Vicet",
+    "short_name": "Vicet",
+    "description": "Sistema de ventas de Ortopedia Vicet",
+    "background_color": "#006FAA",
+    "theme_color": "#006FAA",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-PE",
+    "icons": [
+      {
+        "src": "images/index/Logo.jpeg",
+        "sizes": "1025x1025",
+        "type": "image/png"
+      },
+      {
+        "src": "images/index/Logo.jpeg",
+        "sizes": "513x513",
+        "type": "image/png"
+      },
+      {
+        "src": "images/index/Logo.jpeg",
+        "sizes": "385x385",
+        "type": "image/png"
+      },
+      {
+        "src": "images/index/Logo.jpeg",
+        "sizes": "257x257",
+        "type": "image/png"
+      },
+      {
+        "src": "images/index/Logo.jpeg",
+        "sizes": "193x193",
+        "type": "image/png"
+      },
+      {
+        "src": "images/index/Logo.jpeg",
+        "sizes": "129x129",
+        "type": "image/png"
+      },
+      {
+        "src": "images/index/Logo.jpeg",
+        "sizes": "97x97",
+        "type": "image/png"
+      },
+      {
+        "src": "images/index/Logo.jpeg",
+        "sizes": "65x65",
+        "type": "image/png"
+      },
+      {
+        "src": "images/index/Logo.jpeg",
+        "sizes": "33x33",
+        "type": "image/png"
+      },
+      {
+        "src": "images/index/Logo.jpeg",
+        "sizes": "17x17",
+        "type": "image/png"
+      }
+    ]
+    }
